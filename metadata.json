@@ -1,0 +1,7 @@
+{
+  "name": "rahulverse: The Portfolio Core",
+  "description": "A high-tech, sci-fi themed personal portfolio for Rahul, featuring a mantra of Discover, Invent, and Destroy. Includes an AI-powered assistant named Nova-X.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
